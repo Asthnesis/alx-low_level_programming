@@ -1,6 +1,10 @@
 #/bin/bash
-#include "stdio.h"
-int main()
+/**
+*Main: Entry point
+*Return: return 0
+*/
+#include "main.h"
+int main(void)
 {
 char out = "_putchar";
 putchar(out);
