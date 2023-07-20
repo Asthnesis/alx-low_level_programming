@@ -2,7 +2,7 @@
 
 /**
 * main: checks if c is uppercase
-* @c: letter checked
+* @c: number checked
 * return: 1 if uppercase and 0 if else
 */
 
